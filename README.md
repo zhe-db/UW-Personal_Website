@@ -1,4 +1,5 @@
-# UW-Personal_Website
+# Personal_Website on UWaterloo server
 Old personal Website with Responsive desgin
-My new personal website available (here)[http://www.waltwang.com]
+# Personal Website
+My new personal website available [here](http://www.waltwang.com)
 
